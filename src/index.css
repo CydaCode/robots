@@ -1,0 +1,20 @@
+@font-face {
+  font-family: Sagas;
+  src: url(/src/SEGA.TTF);
+}
+
+body {
+  background-color: #003151;
+}
+
+.yale {
+  background-color: #0e4c92;
+}
+
+.azure {
+  color: #73c2fb;
+}
+
+.h1 {
+  font-family: Sagas;
+}
